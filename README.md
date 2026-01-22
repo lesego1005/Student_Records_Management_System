@@ -45,7 +45,7 @@ This project is a complete student records management system built as part of a 
 
 ## Entity-Relationship Diagram
 
-![ERD Diagram](erd.png)
+![ERD Diagram](ERD.png)
 
 ## Project Structure
 
