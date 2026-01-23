@@ -8,7 +8,6 @@ __pycache__/
 .env
 
 # Backup files and dumps
-*.sql
 *.bak
 *.backup
 
